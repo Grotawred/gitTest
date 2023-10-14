@@ -1,0 +1,112 @@
+git status 
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+git log
+
+commit 5d7cb2d9a89f484c6cf7ca8a1c95733983768610 (HEAD -> main)
+Author: Grotawred <grishavlasko200@gmail.com>
+Date:   Sat Oct 14 10:16:57 2023 +0300
+
+    results.txt added
+
+commit 6d64fb8f131849c2684ca3eae0e43197868ce51b (origin/main)
+Author: Grotawred <107578105+Grotawred@users.noreply.github.com>
+Date:   Sat Oct 14 10:15:19 2023 +0300
+
+    Create readme.md
+
+:...skipping...
+commit 5d7cb2d9a89f484c6cf7ca8a1c95733983768610 (HEAD -> main)
+Author: Grotawred <grishavlasko200@gmail.com>
+Date:   Sat Oct 14 10:16:57 2023 +0300
+
+    results.txt added
+
+commit 6d64fb8f131849c2684ca3eae0e43197868ce51b (origin/main)
+Author: Grotawred <107578105+Grotawred@users.noreply.github.com>
+Date:   Sat Oct 14 10:15:19 2023 +0300
+
+    Create readme.md
+
+commit 86e9feae6d11a6fbb282da79450a32a5dc1033b0
+Merge: d063458 2d8cea9
+Author: Grotawred <grishavlasko200@gmail.com>
+Date:   Sat Oct 14 10:13:01 2023 +0300
+
+    conflict solve
+
+commit d063458329b8f10ac39afc502da2d87a254097cf
+Author: Grotawred <grishavlasko200@gmail.com>
+Date:   Sat Oct 14 10:11:40 2023 +0300
+
+    new variable string
+
+commit 2d8cea922a30163f6c646ab0e3b3c99da15de2ac (origin/feature, feature)
+Author: Grotawred <grishavlasko200@gmail.com>
+Date:   Sat Oct 14 10:07:22 2023 +0300
+
+    using function 'sayHello'
+
+commit bf95617314c2d18f75517817942a09f5c897bc48
+Author: Grotawred <grishavlasko200@gmail.com>
+Date:   Sat Oct 14 10:04:16 2023 +0300
+
+    new function 'sayHello'
+
+:...skipping...
+commit 5d7cb2d9a89f484c6cf7ca8a1c95733983768610 (HEAD -> main)
+Author: Grotawred <grishavlasko200@gmail.com>
+Date:   Sat Oct 14 10:16:57 2023 +0300
+
+    results.txt added
+
+commit 6d64fb8f131849c2684ca3eae0e43197868ce51b (origin/main)
+Author: Grotawred <107578105+Grotawred@users.noreply.github.com>
+Date:   Sat Oct 14 10:15:19 2023 +0300
+
+    Create readme.md
+
+commit 86e9feae6d11a6fbb282da79450a32a5dc1033b0
+Merge: d063458 2d8cea9
+Author: Grotawred <grishavlasko200@gmail.com>
+Date:   Sat Oct 14 10:13:01 2023 +0300
+
+    conflict solve
+
+commit d063458329b8f10ac39afc502da2d87a254097cf
+Author: Grotawred <grishavlasko200@gmail.com>
+Date:   Sat Oct 14 10:11:40 2023 +0300
+
+    new variable string
+
+commit 2d8cea922a30163f6c646ab0e3b3c99da15de2ac (origin/feature, feature)
+Author: Grotawred <grishavlasko200@gmail.com>
+Date:   Sat Oct 14 10:07:22 2023 +0300
+
+    using function 'sayHello'
+
+commit bf95617314c2d18f75517817942a09f5c897bc48
+Author: Grotawred <grishavlasko200@gmail.com>
+Date:   Sat Oct 14 10:04:16 2023 +0300
+
+    new function 'sayHello'
+
+commit a9bc64adb41c8418a5c679e5c2d50418841f78fb
+Author: Grotawred <grishavlasko200@gmail.com>
+Date:   Sat Oct 14 10:01:15 2023 +0300
+
+    add new file with basic 'hello world'
+
+
+git log --merges
+
+commit 86e9feae6d11a6fbb282da79450a32a5dc1033b0
+Merge: d063458 2d8cea9
+Author: Grotawred <grishavlasko200@gmail.com>
+Date:   Sat Oct 14 10:13:01 2023 +0300
+
+    conflict solve
